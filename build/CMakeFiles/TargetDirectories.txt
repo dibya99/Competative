@@ -1,0 +1,3 @@
+/home/dibya/competative/build/CMakeFiles/edit_cache.dir
+/home/dibya/competative/build/CMakeFiles/rebuild_cache.dir
+/home/dibya/competative/build/CMakeFiles/ex1.dir
